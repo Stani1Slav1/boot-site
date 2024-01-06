@@ -1,0 +1,13 @@
+.navbar {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.header {
+    font-size: 40px;
+}
+body {
+    background-color: #FFDB89;
+}
+.card {
+    background-color: #FFF6C3;
+}
